@@ -17,7 +17,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-affont&show_icons=true&locale=en" alt="gabriel-affont" /></p>
+
 
 
 
